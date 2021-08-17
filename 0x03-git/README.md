@@ -1,1 +1,1 @@
-'ALX must be cool!'
+'ALX is cool!'
